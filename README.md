@@ -1,1 +1,3 @@
 # Quiz_website
+It's a quiz website using HTML, CSS and JS.
+You can practice and learn in time_bound environment here...
